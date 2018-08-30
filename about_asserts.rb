@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 # -*- ruby -*-
-
+#test
 require File.expand_path(File.dirname(__FILE__) + '/neo')
 
 class AboutAsserts < Neo::Koan
